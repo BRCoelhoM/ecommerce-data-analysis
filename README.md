@@ -44,7 +44,7 @@ O modelo relacional foi desenvolvido com base nas
 relações existentes entre clientes, pedidos, produtos,
 vendedores, pagamentos e avaliações.
 
-![DER](docs/der/der_olist.png)
+![DER do projeto Olist](der_olist.png)
 
 ## Banco de dados
 
