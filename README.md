@@ -14,15 +14,14 @@ visualização dos indicadores no Power BI.
 ## Tecnologias
 
 - SQL Server
-- Pentaho Data Integration
-- Python
-- Pandas
+- Apache Hop
+- Python (Pandas)
 - Power BI
 - Git / GitHub
 
 ## Arquitetura
 
-CSV → Pentaho → SQL Server → Python/Pandas → Power BI
+CSV → Apache Hop → SQL Server → Python/Pandas → Power BI
 
 ## Etapas do projeto
 
