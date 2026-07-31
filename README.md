@@ -30,8 +30,8 @@ CSV → Apache Hop → SQL Server → Python/Pandas → Power BI
 - [x] Criação do schema STG
 - [x] Criação das tabelas de Staging
 - [x] Criação das tabelas finais
-- [ ] Desenvolvimento do processo ETL
-- [ ] Carga dos dados
+- [x] Desenvolvimento do processo ETL
+- [x] Carga dos dados
 - [ ] Tratamento e validação
 - [ ] Análise exploratória com Python/Pandas
 - [ ] Desenvolvimento do dashboard no Power BI
